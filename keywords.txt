@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Motor	KEYWORD1
+DCMotor	KEYWORD1
+StepMotor	KEYWORD1
+M1	KEYWORD1
+M2	KEYWORD1
+Stepper	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setSpeed	KEYWORD2
+begin	KEYWORD2
+stop	KEYWORD2
+forward	KEYWORD2
+backward	KEYWORD2
+moveSteps	KEYWORD2
+moveDir	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
